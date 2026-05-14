@@ -1,7 +1,7 @@
 name: Website Health Monitor
 on:
   schedule:
-    - cron: '0 * * * *'  # Hourly checks
+    - cron: '*/5 * * * *'
   workflow_dispatch:      # Manual trigger option
 
 permissions:
