@@ -54,14 +54,14 @@
   "BBRBet Landing Page": {
     "online": true,
     "error": null,
-    "latency": 317,
+    "latency": 345,
     "status_code": 200,
     "ssl_days_remaining": 183,
     "content_valid": true,
-    "last_check": "2026-05-24 17:36:08",
-    "total_checks": 125,
-    "successful_checks": 124,
-    "uptime": 99.2,
+    "last_check": "2026-05-24 18:47:14",
+    "total_checks": 126,
+    "successful_checks": 125,
+    "uptime": 99.21,
     "alert_sent": false
   }
 }
