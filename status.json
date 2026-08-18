@@ -53,15 +53,15 @@
   },
   "BBRBet Landing Page": {
     "online": false,
-    "error": "HTTPSConnectionPool(host='bbrgames.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='bbrgames.com', port=443) at 0x7fe6ae0c4070>, 'Connection to bbrgames.com timed out. (connect timeout=10)'))",
+    "error": "HTTPSConnectionPool(host='bbrgames.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='bbrgames.com', port=443) at 0x7fdea9bcc070>, 'Connection to bbrgames.com timed out. (connect timeout=10)'))",
     "latency": null,
     "status_code": null,
     "ssl_days_remaining": null,
     "content_valid": null,
-    "last_check": "2026-08-17 23:54:38",
-    "total_checks": 1278,
+    "last_check": "2026-08-18 01:26:06",
+    "total_checks": 1279,
     "successful_checks": 187,
-    "uptime": 14.63,
+    "uptime": 14.62,
     "alert_sent": true
   }
 }
